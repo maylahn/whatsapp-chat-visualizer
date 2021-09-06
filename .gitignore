@@ -1,5 +1,5 @@
 .env
-*.txt
+chat_history/*
 img/*
 
 # Byte-compiled / optimized / DLL files
